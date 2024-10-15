@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -8,7 +8,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: "Prata", serif;
+    font-family: "Outfit", sans-serif;
     box-sizing: border-box;
 }
 
